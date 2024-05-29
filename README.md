@@ -26,11 +26,3 @@ Answer critical business questions to aid in strategic decision-making.
 
 
 
-
-
-🔍 Results:
-1. The most popular genre: Rock
-2. The most popular artist: AC/DC
-3. The longest song in the playlist: "How Many More Times"
-4. The average album price: $1
-5. The top country for music purchases: United States
