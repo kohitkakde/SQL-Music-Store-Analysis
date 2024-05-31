@@ -10,6 +10,15 @@ Evaluate artist performance and growth.
 Identify trends and money spent by customers.
 Answer critical business questions to aid in strategic decision-making.
 
+✨Features
+- *Database Creation*: Scripts to create and initialize the database.
+- *CRUD Operations*: Examples of Create, Read, Update, and Delete operations.
+- *Complex Queries*: Advanced SQL queries, including joins, subqueries, and aggregations.
+- *Data Analysis*: Analytical queries to derive insights from the data.
+- * Window Functions*: Implementation of Window Function and user-defined functions.
+- *Views*: Use of views for optimization and abstraction.
+
+
 
 📋 Key Queries and Insights:
 - Identify the senior-most employee based on job title.
